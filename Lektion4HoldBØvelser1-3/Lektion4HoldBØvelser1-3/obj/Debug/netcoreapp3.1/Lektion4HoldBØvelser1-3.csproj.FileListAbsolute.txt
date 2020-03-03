@@ -1,0 +1,11 @@
+C:\Users\Simon\source\repos\Lektion4HoldBØvelser1-3\Lektion4HoldBØvelser1-3\bin\Debug\netcoreapp3.1\Lektion4HoldBØvelser1-3.exe
+C:\Users\Simon\source\repos\Lektion4HoldBØvelser1-3\Lektion4HoldBØvelser1-3\bin\Debug\netcoreapp3.1\Lektion4HoldBØvelser1-3.deps.json
+C:\Users\Simon\source\repos\Lektion4HoldBØvelser1-3\Lektion4HoldBØvelser1-3\bin\Debug\netcoreapp3.1\Lektion4HoldBØvelser1-3.runtimeconfig.json
+C:\Users\Simon\source\repos\Lektion4HoldBØvelser1-3\Lektion4HoldBØvelser1-3\bin\Debug\netcoreapp3.1\Lektion4HoldBØvelser1-3.runtimeconfig.dev.json
+C:\Users\Simon\source\repos\Lektion4HoldBØvelser1-3\Lektion4HoldBØvelser1-3\bin\Debug\netcoreapp3.1\Lektion4HoldBØvelser1-3.dll
+C:\Users\Simon\source\repos\Lektion4HoldBØvelser1-3\Lektion4HoldBØvelser1-3\bin\Debug\netcoreapp3.1\Lektion4HoldBØvelser1-3.pdb
+C:\Users\Simon\source\repos\Lektion4HoldBØvelser1-3\Lektion4HoldBØvelser1-3\obj\Debug\netcoreapp3.1\Lektion4HoldBØvelser1-3.csprojAssemblyReference.cache
+C:\Users\Simon\source\repos\Lektion4HoldBØvelser1-3\Lektion4HoldBØvelser1-3\obj\Debug\netcoreapp3.1\Lektion4HoldBØvelser1-3.AssemblyInfoInputs.cache
+C:\Users\Simon\source\repos\Lektion4HoldBØvelser1-3\Lektion4HoldBØvelser1-3\obj\Debug\netcoreapp3.1\Lektion4HoldBØvelser1-3.AssemblyInfo.cs
+C:\Users\Simon\source\repos\Lektion4HoldBØvelser1-3\Lektion4HoldBØvelser1-3\obj\Debug\netcoreapp3.1\Lektion4HoldBØvelser1-3.dll
+C:\Users\Simon\source\repos\Lektion4HoldBØvelser1-3\Lektion4HoldBØvelser1-3\obj\Debug\netcoreapp3.1\Lektion4HoldBØvelser1-3.pdb

@@ -1,0 +1,10 @@
+C:\Users\Simon\source\repos\Max\Max\bin\Release\netcoreapp3.1\Max.exe
+C:\Users\Simon\source\repos\Max\Max\bin\Release\netcoreapp3.1\Max.deps.json
+C:\Users\Simon\source\repos\Max\Max\bin\Release\netcoreapp3.1\Max.runtimeconfig.json
+C:\Users\Simon\source\repos\Max\Max\bin\Release\netcoreapp3.1\Max.runtimeconfig.dev.json
+C:\Users\Simon\source\repos\Max\Max\bin\Release\netcoreapp3.1\Max.dll
+C:\Users\Simon\source\repos\Max\Max\bin\Release\netcoreapp3.1\Max.pdb
+C:\Users\Simon\source\repos\Max\Max\obj\Release\netcoreapp3.1\Max.AssemblyInfoInputs.cache
+C:\Users\Simon\source\repos\Max\Max\obj\Release\netcoreapp3.1\Max.AssemblyInfo.cs
+C:\Users\Simon\source\repos\Max\Max\obj\Release\netcoreapp3.1\Max.dll
+C:\Users\Simon\source\repos\Max\Max\obj\Release\netcoreapp3.1\Max.pdb

@@ -1,0 +1,5 @@
+C:\Users\Simon\source\repos\Øvelse1\LINQØvelser\bin\Debug\LINQØvelser.exe.config
+C:\Users\Simon\source\repos\Øvelse1\LINQØvelser\bin\Debug\LINQØvelser.exe
+C:\Users\Simon\source\repos\Øvelse1\LINQØvelser\bin\Debug\LINQØvelser.pdb
+C:\Users\Simon\source\repos\Øvelse1\LINQØvelser\obj\Debug\LINQØvelser.exe
+C:\Users\Simon\source\repos\Øvelse1\LINQØvelser\obj\Debug\LINQØvelser.pdb

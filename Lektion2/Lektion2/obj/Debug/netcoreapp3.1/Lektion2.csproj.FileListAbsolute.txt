@@ -1,0 +1,11 @@
+C:\Users\Simon\source\repos\Lektion2\Lektion2\bin\Debug\netcoreapp3.1\Lektion2.exe
+C:\Users\Simon\source\repos\Lektion2\Lektion2\bin\Debug\netcoreapp3.1\Lektion2.deps.json
+C:\Users\Simon\source\repos\Lektion2\Lektion2\bin\Debug\netcoreapp3.1\Lektion2.runtimeconfig.json
+C:\Users\Simon\source\repos\Lektion2\Lektion2\bin\Debug\netcoreapp3.1\Lektion2.runtimeconfig.dev.json
+C:\Users\Simon\source\repos\Lektion2\Lektion2\bin\Debug\netcoreapp3.1\Lektion2.dll
+C:\Users\Simon\source\repos\Lektion2\Lektion2\bin\Debug\netcoreapp3.1\Lektion2.pdb
+C:\Users\Simon\source\repos\Lektion2\Lektion2\obj\Debug\netcoreapp3.1\Lektion2.csprojAssemblyReference.cache
+C:\Users\Simon\source\repos\Lektion2\Lektion2\obj\Debug\netcoreapp3.1\Lektion2.AssemblyInfoInputs.cache
+C:\Users\Simon\source\repos\Lektion2\Lektion2\obj\Debug\netcoreapp3.1\Lektion2.AssemblyInfo.cs
+C:\Users\Simon\source\repos\Lektion2\Lektion2\obj\Debug\netcoreapp3.1\Lektion2.dll
+C:\Users\Simon\source\repos\Lektion2\Lektion2\obj\Debug\netcoreapp3.1\Lektion2.pdb

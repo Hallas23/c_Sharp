@@ -1,0 +1,6 @@
+C:\Users\Simon\source\repos\Lektion3HoldASTA\bin\Debug\Lektion3HoldASTA.exe.config
+C:\Users\Simon\source\repos\Lektion3HoldASTA\bin\Debug\Lektion3HoldASTA.exe
+C:\Users\Simon\source\repos\Lektion3HoldASTA\bin\Debug\Lektion3HoldASTA.pdb
+C:\Users\Simon\source\repos\Lektion3HoldASTA\obj\Debug\Lektion3HoldASTA.csprojAssemblyReference.cache
+C:\Users\Simon\source\repos\Lektion3HoldASTA\obj\Debug\Lektion3HoldASTA.exe
+C:\Users\Simon\source\repos\Lektion3HoldASTA\obj\Debug\Lektion3HoldASTA.pdb

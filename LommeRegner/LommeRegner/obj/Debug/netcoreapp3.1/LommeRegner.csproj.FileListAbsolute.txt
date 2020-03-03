@@ -1,0 +1,11 @@
+C:\Users\Simon\source\repos\LommeRegner\LommeRegner\bin\Debug\netcoreapp3.1\LommeRegner.exe
+C:\Users\Simon\source\repos\LommeRegner\LommeRegner\bin\Debug\netcoreapp3.1\LommeRegner.deps.json
+C:\Users\Simon\source\repos\LommeRegner\LommeRegner\bin\Debug\netcoreapp3.1\LommeRegner.runtimeconfig.json
+C:\Users\Simon\source\repos\LommeRegner\LommeRegner\bin\Debug\netcoreapp3.1\LommeRegner.runtimeconfig.dev.json
+C:\Users\Simon\source\repos\LommeRegner\LommeRegner\bin\Debug\netcoreapp3.1\LommeRegner.dll
+C:\Users\Simon\source\repos\LommeRegner\LommeRegner\bin\Debug\netcoreapp3.1\LommeRegner.pdb
+C:\Users\Simon\source\repos\LommeRegner\LommeRegner\obj\Debug\netcoreapp3.1\LommeRegner.csprojAssemblyReference.cache
+C:\Users\Simon\source\repos\LommeRegner\LommeRegner\obj\Debug\netcoreapp3.1\LommeRegner.AssemblyInfoInputs.cache
+C:\Users\Simon\source\repos\LommeRegner\LommeRegner\obj\Debug\netcoreapp3.1\LommeRegner.AssemblyInfo.cs
+C:\Users\Simon\source\repos\LommeRegner\LommeRegner\obj\Debug\netcoreapp3.1\LommeRegner.dll
+C:\Users\Simon\source\repos\LommeRegner\LommeRegner\obj\Debug\netcoreapp3.1\LommeRegner.pdb

@@ -1,0 +1,14 @@
+C:\Users\Simon\source\repos\Lektion6A\Øvelse6\bin\Debug\Øvelse6.exe.config
+C:\Users\Simon\source\repos\Lektion6A\Øvelse6\bin\Debug\Øvelse6.exe
+C:\Users\Simon\source\repos\Lektion6A\Øvelse6\bin\Debug\Øvelse6.pdb
+C:\Users\Simon\source\repos\Lektion6A\Øvelse6\obj\Debug\MainWindow.g.cs
+C:\Users\Simon\source\repos\Lektion6A\Øvelse6\obj\Debug\App.g.cs
+C:\Users\Simon\source\repos\Lektion6A\Øvelse6\obj\Debug\Øvelse6_MarkupCompile.cache
+C:\Users\Simon\source\repos\Lektion6A\Øvelse6\obj\Debug\Øvelse6_MarkupCompile.lref
+C:\Users\Simon\source\repos\Lektion6A\Øvelse6\obj\Debug\MainWindow.baml
+C:\Users\Simon\source\repos\Lektion6A\Øvelse6\obj\Debug\Øvelse6.g.resources
+C:\Users\Simon\source\repos\Lektion6A\Øvelse6\obj\Debug\Øvelse6.Properties.Resources.resources
+C:\Users\Simon\source\repos\Lektion6A\Øvelse6\obj\Debug\Øvelse6.csproj.GenerateResource.cache
+C:\Users\Simon\source\repos\Lektion6A\Øvelse6\obj\Debug\Øvelse6.exe
+C:\Users\Simon\source\repos\Lektion6A\Øvelse6\obj\Debug\Øvelse6.pdb
+C:\Users\Simon\source\repos\Lektion6A\Øvelse6\obj\Debug\Øvelse6.csprojAssemblyReference.cache

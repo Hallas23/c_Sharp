@@ -1,0 +1,14 @@
+C:\Users\Simon\source\repos\GradedExercisesWPFReal\bin\Debug\GradedExercisesWPFReal.exe.config
+C:\Users\Simon\source\repos\GradedExercisesWPFReal\bin\Debug\GradedExercisesWPFReal.exe
+C:\Users\Simon\source\repos\GradedExercisesWPFReal\bin\Debug\GradedExercisesWPFReal.pdb
+C:\Users\Simon\source\repos\GradedExercisesWPFReal\obj\Debug\GradedExercisesWPFReal.csprojAssemblyReference.cache
+C:\Users\Simon\source\repos\GradedExercisesWPFReal\obj\Debug\MainWindow.g.cs
+C:\Users\Simon\source\repos\GradedExercisesWPFReal\obj\Debug\App.g.cs
+C:\Users\Simon\source\repos\GradedExercisesWPFReal\obj\Debug\GradedExercisesWPFReal_MarkupCompile.cache
+C:\Users\Simon\source\repos\GradedExercisesWPFReal\obj\Debug\GradedExercisesWPFReal_MarkupCompile.lref
+C:\Users\Simon\source\repos\GradedExercisesWPFReal\obj\Debug\MainWindow.baml
+C:\Users\Simon\source\repos\GradedExercisesWPFReal\obj\Debug\GradedExercisesWPFReal.g.resources
+C:\Users\Simon\source\repos\GradedExercisesWPFReal\obj\Debug\GradedExercisesWPFReal.Properties.Resources.resources
+C:\Users\Simon\source\repos\GradedExercisesWPFReal\obj\Debug\GradedExercisesWPFReal.csproj.GenerateResource.cache
+C:\Users\Simon\source\repos\GradedExercisesWPFReal\obj\Debug\GradedExercisesWPFReal.exe
+C:\Users\Simon\source\repos\GradedExercisesWPFReal\obj\Debug\GradedExercisesWPFReal.pdb

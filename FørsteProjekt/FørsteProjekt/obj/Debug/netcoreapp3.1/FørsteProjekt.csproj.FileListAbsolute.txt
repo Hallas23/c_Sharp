@@ -1,0 +1,11 @@
+C:\Users\Simon\source\repos\FørsteProjekt\FørsteProjekt\bin\Debug\netcoreapp3.1\FørsteProjekt.exe
+C:\Users\Simon\source\repos\FørsteProjekt\FørsteProjekt\bin\Debug\netcoreapp3.1\FørsteProjekt.deps.json
+C:\Users\Simon\source\repos\FørsteProjekt\FørsteProjekt\bin\Debug\netcoreapp3.1\FørsteProjekt.runtimeconfig.json
+C:\Users\Simon\source\repos\FørsteProjekt\FørsteProjekt\bin\Debug\netcoreapp3.1\FørsteProjekt.runtimeconfig.dev.json
+C:\Users\Simon\source\repos\FørsteProjekt\FørsteProjekt\bin\Debug\netcoreapp3.1\FørsteProjekt.dll
+C:\Users\Simon\source\repos\FørsteProjekt\FørsteProjekt\bin\Debug\netcoreapp3.1\FørsteProjekt.pdb
+C:\Users\Simon\source\repos\FørsteProjekt\FørsteProjekt\obj\Debug\netcoreapp3.1\FørsteProjekt.csprojAssemblyReference.cache
+C:\Users\Simon\source\repos\FørsteProjekt\FørsteProjekt\obj\Debug\netcoreapp3.1\FørsteProjekt.AssemblyInfoInputs.cache
+C:\Users\Simon\source\repos\FørsteProjekt\FørsteProjekt\obj\Debug\netcoreapp3.1\FørsteProjekt.AssemblyInfo.cs
+C:\Users\Simon\source\repos\FørsteProjekt\FørsteProjekt\obj\Debug\netcoreapp3.1\FørsteProjekt.dll
+C:\Users\Simon\source\repos\FørsteProjekt\FørsteProjekt\obj\Debug\netcoreapp3.1\FørsteProjekt.pdb

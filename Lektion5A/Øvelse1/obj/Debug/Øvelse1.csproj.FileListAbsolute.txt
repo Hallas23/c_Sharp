@@ -1,0 +1,9 @@
+C:\Users\Simon\source\repos\Lektion5A\Øvelse1\bin\Debug\Øvelse1.exe.config
+C:\Users\Simon\source\repos\Lektion5A\Øvelse1\bin\Debug\Øvelse1.exe
+C:\Users\Simon\source\repos\Lektion5A\Øvelse1\bin\Debug\Øvelse1.pdb
+C:\Users\Simon\source\repos\Lektion5A\Øvelse1\obj\Debug\Øvelse1.csprojAssemblyReference.cache
+C:\Users\Simon\source\repos\Lektion5A\Øvelse1\obj\Debug\Øvelse1.Form1.resources
+C:\Users\Simon\source\repos\Lektion5A\Øvelse1\obj\Debug\Øvelse1.Properties.Resources.resources
+C:\Users\Simon\source\repos\Lektion5A\Øvelse1\obj\Debug\Øvelse1.csproj.GenerateResource.cache
+C:\Users\Simon\source\repos\Lektion5A\Øvelse1\obj\Debug\Øvelse1.exe
+C:\Users\Simon\source\repos\Lektion5A\Øvelse1\obj\Debug\Øvelse1.pdb

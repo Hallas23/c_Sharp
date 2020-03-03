@@ -1,0 +1,6 @@
+C:\Users\Simon\source\repos\ADO\bin\Debug\ADO.exe.config
+C:\Users\Simon\source\repos\ADO\bin\Debug\ADO.exe
+C:\Users\Simon\source\repos\ADO\bin\Debug\ADO.pdb
+C:\Users\Simon\source\repos\ADO\obj\Debug\ADO.csprojAssemblyReference.cache
+C:\Users\Simon\source\repos\ADO\obj\Debug\ADO.exe
+C:\Users\Simon\source\repos\ADO\obj\Debug\ADO.pdb

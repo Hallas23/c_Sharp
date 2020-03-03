@@ -1,0 +1,6 @@
+C:\Users\Simon\source\repos\Lektion2FagHoldA\Lektion2FagHoldA\bin\Debug\Lektion2FagHoldA.exe.config
+C:\Users\Simon\source\repos\Lektion2FagHoldA\Lektion2FagHoldA\bin\Debug\Lektion2FagHoldA.exe
+C:\Users\Simon\source\repos\Lektion2FagHoldA\Lektion2FagHoldA\bin\Debug\Lektion2FagHoldA.pdb
+C:\Users\Simon\source\repos\Lektion2FagHoldA\Lektion2FagHoldA\obj\Debug\Lektion2FagHoldA.exe
+C:\Users\Simon\source\repos\Lektion2FagHoldA\Lektion2FagHoldA\obj\Debug\Lektion2FagHoldA.pdb
+C:\Users\Simon\source\repos\Lektion2FagHoldA\Lektion2FagHoldA\obj\Debug\Lektion2FagHoldAØvelse1.csprojAssemblyReference.cache

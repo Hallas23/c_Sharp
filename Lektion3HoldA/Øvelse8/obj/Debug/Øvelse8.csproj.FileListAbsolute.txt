@@ -1,0 +1,10 @@
+C:\Users\Simon\source\repos\Lektion3HoldA\Øvelse8\bin\Debug\Øvelse8.exe.config
+C:\Users\Simon\source\repos\Lektion3HoldA\Øvelse8\bin\Debug\Øvelse8.exe
+C:\Users\Simon\source\repos\Lektion3HoldA\Øvelse8\bin\Debug\Øvelse8.pdb
+C:\Users\Simon\source\repos\Lektion3HoldA\Øvelse8\bin\Debug\Øvelse3.exe
+C:\Users\Simon\source\repos\Lektion3HoldA\Øvelse8\bin\Debug\Øvelse3.pdb
+C:\Users\Simon\source\repos\Lektion3HoldA\Øvelse8\bin\Debug\Øvelse3.exe.config
+C:\Users\Simon\source\repos\Lektion3HoldA\Øvelse8\obj\Debug\Øvelse8.csprojAssemblyReference.cache
+C:\Users\Simon\source\repos\Lektion3HoldA\Øvelse8\obj\Debug\Øvelse8.csproj.CopyComplete
+C:\Users\Simon\source\repos\Lektion3HoldA\Øvelse8\obj\Debug\Øvelse8.exe
+C:\Users\Simon\source\repos\Lektion3HoldA\Øvelse8\obj\Debug\Øvelse8.pdb

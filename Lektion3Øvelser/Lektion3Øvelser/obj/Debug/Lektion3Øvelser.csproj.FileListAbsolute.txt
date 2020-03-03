@@ -1,0 +1,6 @@
+C:\Users\Simon\source\repos\Lektion3Øvelser\Lektion3Øvelser\bin\Debug\Lektion3Øvelser.exe.config
+C:\Users\Simon\source\repos\Lektion3Øvelser\Lektion3Øvelser\bin\Debug\Lektion3Øvelser.exe
+C:\Users\Simon\source\repos\Lektion3Øvelser\Lektion3Øvelser\bin\Debug\Lektion3Øvelser.pdb
+C:\Users\Simon\source\repos\Lektion3Øvelser\Lektion3Øvelser\obj\Debug\Lektion3Øvelser.csprojAssemblyReference.cache
+C:\Users\Simon\source\repos\Lektion3Øvelser\Lektion3Øvelser\obj\Debug\Lektion3Øvelser.exe
+C:\Users\Simon\source\repos\Lektion3Øvelser\Lektion3Øvelser\obj\Debug\Lektion3Øvelser.pdb

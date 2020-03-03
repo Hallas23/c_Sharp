@@ -1,0 +1,14 @@
+C:\Users\Simon\source\repos\Lektion7B WpfDataBinding\Lektion7B WpfDataBinding\bin\Debug\Lektion7B WpfDataBinding.exe.config
+C:\Users\Simon\source\repos\Lektion7B WpfDataBinding\Lektion7B WpfDataBinding\bin\Debug\Lektion7B WpfDataBinding.exe
+C:\Users\Simon\source\repos\Lektion7B WpfDataBinding\Lektion7B WpfDataBinding\bin\Debug\Lektion7B WpfDataBinding.pdb
+C:\Users\Simon\source\repos\Lektion7B WpfDataBinding\Lektion7B WpfDataBinding\obj\Debug\Øvelse1.csprojAssemblyReference.cache
+C:\Users\Simon\source\repos\Lektion7B WpfDataBinding\Lektion7B WpfDataBinding\obj\Debug\MainWindow.g.cs
+C:\Users\Simon\source\repos\Lektion7B WpfDataBinding\Lektion7B WpfDataBinding\obj\Debug\App.g.cs
+C:\Users\Simon\source\repos\Lektion7B WpfDataBinding\Lektion7B WpfDataBinding\obj\Debug\Lektion7B WpfDataBinding_MarkupCompile.cache
+C:\Users\Simon\source\repos\Lektion7B WpfDataBinding\Lektion7B WpfDataBinding\obj\Debug\Lektion7B WpfDataBinding_MarkupCompile.lref
+C:\Users\Simon\source\repos\Lektion7B WpfDataBinding\Lektion7B WpfDataBinding\obj\Debug\MainWindow.baml
+C:\Users\Simon\source\repos\Lektion7B WpfDataBinding\Lektion7B WpfDataBinding\obj\Debug\Lektion7B WpfDataBinding.g.resources
+C:\Users\Simon\source\repos\Lektion7B WpfDataBinding\Lektion7B WpfDataBinding\obj\Debug\Lektion7B_WpfDataBinding.Properties.Resources.resources
+C:\Users\Simon\source\repos\Lektion7B WpfDataBinding\Lektion7B WpfDataBinding\obj\Debug\Øvelse1.csproj.GenerateResource.cache
+C:\Users\Simon\source\repos\Lektion7B WpfDataBinding\Lektion7B WpfDataBinding\obj\Debug\Lektion7B WpfDataBinding.exe
+C:\Users\Simon\source\repos\Lektion7B WpfDataBinding\Lektion7B WpfDataBinding\obj\Debug\Lektion7B WpfDataBinding.pdb

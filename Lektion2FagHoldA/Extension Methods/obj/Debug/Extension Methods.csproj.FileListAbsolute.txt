@@ -1,0 +1,6 @@
+C:\Users\Simon\source\repos\Lektion2FagHoldA\Extension Methods\bin\Debug\Extension Methods.exe.config
+C:\Users\Simon\source\repos\Lektion2FagHoldA\Extension Methods\bin\Debug\Extension Methods.exe
+C:\Users\Simon\source\repos\Lektion2FagHoldA\Extension Methods\bin\Debug\Extension Methods.pdb
+C:\Users\Simon\source\repos\Lektion2FagHoldA\Extension Methods\obj\Debug\Extension Methods.exe
+C:\Users\Simon\source\repos\Lektion2FagHoldA\Extension Methods\obj\Debug\Extension Methods.pdb
+C:\Users\Simon\source\repos\Lektion2FagHoldA\Extension Methods\obj\Debug\Extension Methods.csprojAssemblyReference.cache

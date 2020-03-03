@@ -1,0 +1,8 @@
+C:\Users\Simon\source\repos\GradedExercisesWPF\bin\Debug\GradedExercisesWPF.exe.config
+C:\Users\Simon\source\repos\GradedExercisesWPF\bin\Debug\GradedExercisesWPF.exe
+C:\Users\Simon\source\repos\GradedExercisesWPF\bin\Debug\GradedExercisesWPF.pdb
+C:\Users\Simon\source\repos\GradedExercisesWPF\obj\Debug\GradedExercisesWPF.csprojAssemblyReference.cache
+C:\Users\Simon\source\repos\GradedExercisesWPF\obj\Debug\GradedExercisesWPF.Properties.Resources.resources
+C:\Users\Simon\source\repos\GradedExercisesWPF\obj\Debug\GradedExercisesWPF.csproj.GenerateResource.cache
+C:\Users\Simon\source\repos\GradedExercisesWPF\obj\Debug\GradedExercisesWPF.exe
+C:\Users\Simon\source\repos\GradedExercisesWPF\obj\Debug\GradedExercisesWPF.pdb

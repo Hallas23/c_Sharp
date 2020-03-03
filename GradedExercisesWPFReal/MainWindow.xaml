@@ -1,0 +1,26 @@
+﻿<Window x:Class="GradedExercisesWPFReal.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:GradedExercisesWPFReal"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid x:Name="gridOuter">
+        <Menu HorizontalAlignment="Left" Height="30" VerticalAlignment="Top" Width="792">
+            <MenuItem Name ="OpenMI" Header="Open" Click="GetUsers"></MenuItem>
+        </Menu>
+        <ListBox Name ="listBox" SelectionChanged="Person_SelectionChanged" HorizontalAlignment="Left" DisplayMemberPath="ListBoxToString" Height="389" Margin="0,30,0,0" VerticalAlignment="Top" Width="261"></ListBox>
+        <TextBox Name="NameB" IsReadOnly="True" HorizontalAlignment="Left" Height="23" Margin="527,64,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="120"/>
+        <TextBox Name="IDB" IsReadOnly="True" HorizontalAlignment="Left" Height="23" Margin="527,119,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="120"/>
+        <TextBox Name="AgeB" IsReadOnly="True" HorizontalAlignment="Left" Height="23" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="120" Margin="527,183,0,0"/>
+        <TextBox Name="ScoreB" IsReadOnly="True" HorizontalAlignment="Left" Height="23" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="120" Margin="527,237,0,0"/>
+        <Label Name="NameL" Content="Name" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="396,61,0,0"/>
+        <Label Name="IDL" Content="ID" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="396,116,0,0"/>
+        <Label Name="AgeL" Content="Age" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="396,188,0,0"/>
+        <Label Name="ScoreL" Content="Score" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="396,237,0,0"/>
+        <StatusBar HorizontalAlignment="Left" Height="41" VerticalAlignment="Top" Width="531" Margin="261,378,0,0">
+            <StatusBarItem x:Name="stBarI" Content="Hej"></StatusBarItem>
+        </StatusBar>
+    </Grid>
+</Window>

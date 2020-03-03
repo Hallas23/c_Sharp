@@ -1,0 +1,6 @@
+C:\Users\Simon\source\repos\Lektion4HoldBØvelser1-3\Øvelse4\bin\Debug\Øvelse4.exe.config
+C:\Users\Simon\source\repos\Lektion4HoldBØvelser1-3\Øvelse4\bin\Debug\Øvelse4.exe
+C:\Users\Simon\source\repos\Lektion4HoldBØvelser1-3\Øvelse4\bin\Debug\Øvelse4.pdb
+C:\Users\Simon\source\repos\Lektion4HoldBØvelser1-3\Øvelse4\obj\Debug\Øvelse4.csprojAssemblyReference.cache
+C:\Users\Simon\source\repos\Lektion4HoldBØvelser1-3\Øvelse4\obj\Debug\Øvelse4.exe
+C:\Users\Simon\source\repos\Lektion4HoldBØvelser1-3\Øvelse4\obj\Debug\Øvelse4.pdb
